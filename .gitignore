@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+aulaOn/static
+cursos/templates
+pesquisas/
+.vscode/
 .Python
 build/
 develop-eggs/
